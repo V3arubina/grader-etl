@@ -1,0 +1,13 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# My project specific ignores
+credentials/
+logs/
